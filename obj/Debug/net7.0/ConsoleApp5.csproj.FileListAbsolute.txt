@@ -1,0 +1,14 @@
+C:\Users\PRO\source\repos\ConsoleApp5\bin\Debug\net7.0\ConsoleApp5.exe
+C:\Users\PRO\source\repos\ConsoleApp5\bin\Debug\net7.0\ConsoleApp5.deps.json
+C:\Users\PRO\source\repos\ConsoleApp5\bin\Debug\net7.0\ConsoleApp5.runtimeconfig.json
+C:\Users\PRO\source\repos\ConsoleApp5\bin\Debug\net7.0\ConsoleApp5.dll
+C:\Users\PRO\source\repos\ConsoleApp5\bin\Debug\net7.0\ConsoleApp5.pdb
+C:\Users\PRO\source\repos\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRO\source\repos\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\PRO\source\repos\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.AssemblyInfo.cs
+C:\Users\PRO\source\repos\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\PRO\source\repos\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.dll
+C:\Users\PRO\source\repos\ConsoleApp5\obj\Debug\net7.0\refint\ConsoleApp5.dll
+C:\Users\PRO\source\repos\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.pdb
+C:\Users\PRO\source\repos\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.genruntimeconfig.cache
+C:\Users\PRO\source\repos\ConsoleApp5\obj\Debug\net7.0\ref\ConsoleApp5.dll
